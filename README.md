@@ -14,7 +14,7 @@ Este projeto tem como objetivo criar uma página da web para apresentar meu curr
 
 ## Como Visualizar
 
-Você pode visualizar meu currículo online visitando [aqui](https://seu-link-para-o-curriculo.com).
+Você pode visualizar meu currículo online visitando [aqui](https://sinomarhenrique.com.br).
 
 ## Como Usar
 
